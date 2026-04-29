@@ -17,17 +17,12 @@
  */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
+#include "main.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "stdio.h"
 #include "string.h"
-#include "stm32f4xx_hal.h"
-#define Blinky_Pin GPIO_PIN_1
-#define Blinky_GPIO_Port GPIOH
-#define Blinkyext_Pin GPIO_PIN_13
-#define Blinkyext_GPIO_Port GPIOA
-
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
